@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Solution
+comment1.params=number
+comment1.target=java.lang.String\ SayNumber(long)
+comment1.text=\r\n\r\n\ Static\ Method\ SayNumber\ (Recursive)\r\n\ -------------------------------\r\n\ This\ method\ takes\ a\ long\ (int)\ as\ a\ parameter\ and\ then\ breaks\ the\ number\r\n\ into\ three\ parts.\r\n\r\n
+comment2.params=num
+comment2.target=java.lang.String\ convertThreeDigit(long)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
