@@ -19,3 +19,7 @@ This program was written in BlueJ
 *To run this file*:
 1. Pull the code
 2. Open this file in any java IDE, compile and run the file
+
+### Loom Video Link 
+
+https://www.loom.com/share/7abf137052b64ad99960b972c9ed4e7a
